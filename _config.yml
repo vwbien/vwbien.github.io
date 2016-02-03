@@ -1,0 +1,12 @@
+# Site settings
+title: Madeline's Madness
+email: madeline@hackartscience.com
+description: > # this means to ignore newlines until "baseurl:"
+  A personal and professional site for Madeline Liour, a publishing and PR
+  consultant based in Boston.
+baseurl: ""
+url: "http://madlime.hackartscience.com"
+twitter_username: hackartscience
+
+# Build settings
+markdown: kramdown

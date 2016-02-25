@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Travel
+permalink: /trave/
 ---
 
 This is so empty :(

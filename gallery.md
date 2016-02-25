@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Gallery
+permalink: /gallery/
 ---
 
 This is so empty :(

@@ -1,20 +1,65 @@
 ---
 layout: post
-title:  "SoHo, NYC"
-banner: "http://static1.squarespace.com/static/4f6798afe4b097349e410d49/t/52f9484ae4b0309f5b0f9581/1392068684423/20130731_Trade+100_0196.jpg?format=1000w"
+title:  "我最喜歡的三明治沒有之一！Render Coffee"
+banner: "https://files.hackartscience.com/export/madeline/render_coffee/render_1.jpg"
+excerpt_separator: <!--more-->
 date:   2016-02-03 16:44:22 -0500
 ---
 
-SoHo is home to the world’s greatest collection of cast-iron architecture.
-But more than that, SoHo is unique among New York’s neighborhoods for its classical French and Italian architectural designs.
-It simply doesn’t look like anywhere else, not even the neighboring West Village or Lower Easy Side.
+這間咖啡館位在South end，距離地鐵橘線 Massachusetts Ave.只需大約5分鐘的路程，所以交通相當方便。（我從A llston走到這間咖啡館大概也只需40分鐘的路程，距離其實相當近！）
 
-![street 1](http://static1.squarespace.com/static/4f6798afe4b097349e410d49/t/527d38c3e4b05acc5f1bbb26/1383938246770/20130731_Trade+100_0202.jpg?format=750w)
+其實我對於South end相當不熟悉，大多數時候我都在 Downtown，Allston，Cambridge或是北邊一點的Somerville範圍活動。只有夏天時週末偶爾會到South end的SOWA市集晃晃。
 
-![street 2](http://static1.squarespace.com/static/4f6798afe4b097349e410d49/t/527d38d2e4b0e46aebbeebaa/1383938261725/20130731_Trade+100_0220.jpg?format=750w)
+<!--more-->
 
-![street 3](http://static1.squarespace.com/static/4f6798afe4b097349e410d49/t/527d38e7e4b0e46aebbeebcc/1383938285851/20130731_Trade+100_0229.jpg?format=750w)
+![???][render_2]
 
-For one thing, the colors are much more distinct in SoHo. They’re brighter. Perhaps that’s a reflection on the people living here. But for many of the cast-iron buildings that give SoHo it’s unmistakable character, the reason for their bright coloring is actually pretty obvious: whenever you construct anything from wrought iron, it’s going to look like, well, wrought iron.
+![???][render_4]
 
-So the colors of SoHo as they’re known, or at least as they ought to be known, the colors that are just a street photographers dream come true (where else can you find so many amazing backdrops?), are actually the result of many, many coats of bright paints. And they light up a photo in ways even a flash cannot.
+其實這個區域相當的有文藝氣息，有許許多多的藝廊散落在South end，而且在Render Coffee附近有一家Café Madeleine的甜點店，上圖中的水果塔還有店裡販賣的馬卡龍都十分好吃！下次有機會再跟大家介紹！
+
+![???][render_3]
+
+Render Coffee的座位並不多，不過店內有像溫室般全玻璃空間，就算是冬天也能在室內享受陽光灑落在座位之間的好心情。另外他們也有戶外座位區，在夏天微風徐徐時，在戶外品嘗一杯咖啡也不失為一個好選擇。
+
+![???][render_6]
+
+說到最重要的三明治，我最喜歡的是BLT Panini。Panini帕尼尼三明治不同於一般三明治偏向冷食，帕尼尼最重要的就是把三明治加熱香烤，尤其使用專門的烤帕尼尼機器，三明治麵包的表面會有橫條的烤印痕跡，令人看了垂涎三尺。
+
+說到BLT其實就是Bacon, Lettuce和Tomato的縮寫，雖然食材看來相當的平凡，但這裡的BLT使用歐式的乾燥番茄，加上新鮮的西洋菠菜和aioli香蒜蛋黃醬，不僅襯托出培根的香味，還能品嘗不同以往的BLT風味。
+
+![???][render_9]
+
+另外朋友點了Ham & Turkey Panini，名字不是很確定，但這個三明治有滿滿的火腿及雞胸肉，雖然沒有生菜番茄，但搭上稍微有點嗆鼻的黃芥末，清爽解膩！
+
+如果大家有機會到South end的話，一定要到Render Coffee嚐嚐他們的三明治喲！保證不會後悔！
+
+
+### ⭐️綜合評分⭐️
+
+價格：💰
+
+餐點口味：⭐️⭐️⭐️⭐️⭐️
+
+交通地點：⭐️⭐️⭐️⭐️（臨近地鐵）
+
+座位數量：⭐️⭐️
+
+推薦程度：⭐️⭐️⭐️⭐️
+
+☞ Render Coffee 店家資訊
+
+Mon. – Fri.: 7:00 am – 7:00 pm
+
+Sat. & Sun.: 8:00 am – 7:00 pm
+
+563 Columbus Ave, Boston, Ma 02119
+
+617-262-4142
+
+
+[render_2]: https://files.hackartscience.com/export/madeline/render_coffee/render_2.jpg
+[render_3]: https://files.hackartscience.com/export/madeline/render_coffee/render_3.jpg
+[render_4]: https://files.hackartscience.com/export/madeline/render_coffee/render_4.jpg
+[render_6]: https://files.hackartscience.com/export/madeline/render_coffee/render_6.jpg
+[render_9]: https://files.hackartscience.com/export/madeline/render_coffee/render_9.jpg

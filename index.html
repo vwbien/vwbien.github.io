@@ -16,9 +16,8 @@ layout: default
   <img class="banner" src="{{ post.banner }}" alt="post banner">
 
   <article>
-    {{ post.content }}
-    <br/>
-
+    {{ post.excerpt }}
+    <a href="{{ post.url | prepend: site.baseurl }}">continue reading ...</a>
     <!--
     comment (takes to bottom of post page)
     likes (DISQS)

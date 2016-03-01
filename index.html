@@ -5,23 +5,6 @@ layout: default
 <img class="banner" alt="banner image" src="http://static1.squarespace.com/static/4f6798afe4b097349e410d49/t/52f9484ae4b0309f5b0f9581/1392068684423/20130731_Trade+100_0196.jpg?format=1000w">
 -->
 
-<!-- LAST 3 ARTICLES -->
 {% for post in site.posts %}
-  <h2>
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h2>
-
-  <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
-  <br/>
-  <img class="banner" src="{{ post.banner }}" alt="post banner">
-
-  <article>
-    {{ post.excerpt }}
-    <a href="{{ post.url | prepend: site.baseurl }}">continue reading ...</a>
-    <!--
-    comment (takes to bottom of post page)
-    likes (DISQS)
-    social buttons (TODO)
-    -->
-  </article>
+  {% include excerpt.html %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我最喜歡的三明治沒有之一！Render Coffee"
-banner: "https://files.hackartscience.com/export/madlime/render_coffee/render_1.jpg"
+banner: "https://static.hackartscience.com/madlime/render_coffee/render_1.jpg"
 tag: food
 excerpt_separator: <!--more-->
 date:   2016-02-03 16:44:22 -0500

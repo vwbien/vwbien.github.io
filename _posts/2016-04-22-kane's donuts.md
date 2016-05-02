@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "書香環繞的悠閒早午餐時光 Trident Booksellers & Cafe"
-banner: "https://static.hackartscience.com/madlime/trident/trident_23.jpg"
+title:  "隱藏金融區內的甜蜜滋味 Kane’s Donuts"
+banner: "https://static.hackartscience.com/madlime/kanes/kanes_1.jpg"
 tag: food
 excerpt_separator: <!--more-->
-date:   2016-04-18 16:44:22 -0500
+date:   2016-04-22 16:44:22 -0500
 ---
 
 身為一個book lover，不管身在哪個城市，最重要的功課就是到處尋訪有趣新奇的獨立書店和二手書店。位在波士頓鼎鼎有名的精品街Newbury Street上，雖然來來回回地走過好幾遍，卻始終沒有看到這間書店的蹤影。後來才發現，他不是不顯眼，而是太顯眼了以致於很難意識到它是一間書店。畢竟，哪有書店不論何時總是人聲鼎沸，甚至大排長龍呢？
@@ -34,6 +34,8 @@ date:   2016-04-18 16:44:22 -0500
 Trident有名的餐點除了早午餐之外，另一個最知名的餐點則是地瓜薯條！大家可能覺得這有什麼稀奇，台灣到處都有便宜美味的甘梅地瓜薯條。不過這裡地瓜薯條的特色在於隨餐附上的三種沾醬：咖哩芥末醬，熟烤大蒜醬和青蔥香蒜醬。每一種沾起來都超級對味！
 
 又我是個鹹食派的人，不習慣在正餐時間吃甜的東西，但偷偷觀察別桌客人，發現大家很常點鬆餅，法式土司或比利時鬆餅。上次看到隔壁桌的女生點了一個法式吐司淋上滿滿的藍莓果醬，看起來也超級好吃！
+
+![][food4]
 
 另外，除了早午餐之外，Trident也有提供其他餐點選項，像是沙拉，三明治，漢堡等等。值得一提的是，他們有很多飲料選擇。常見的汽水果汁咖啡不用說，他們還有大約20多種的茶類以及現打的水果冰沙！
 
@@ -73,3 +75,4 @@ Boston,  MA 02115
 [food1]: https://static.hackartscience.com/madlime/trident/trident_12.jpg
 [food2]: https://static.hackartscience.com/madlime/trident/trident_13.jpg
 [food3]: https://static.hackartscience.com/madlime/trident/trident_15.jpg
+[food4]: https://static.hackartscience.com/madlime/kanes/kanes_2.jpg

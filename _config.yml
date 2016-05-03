@@ -1,12 +1,10 @@
 # Site settings
-title: madeline
+title: "Mad Lime"
 email: madeline@hackartscience.com
 description: > # ignore newlines
-  A personal and professional site for Madeline Liou, a publishing
-  consultant based in Boston.
+  OMERGAH FOOD.
 baseurl: ""
 url: "http://madlime.hackartscience.com"
-twitter_username: madelineismadeline
 facebook_username: madlime
 
 # Build settings

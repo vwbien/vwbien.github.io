@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我最喜歡的三明治沒有之一！Render Coffee"
-banner: "https://static.hackartscience.com/madlime/render_coffee/render_1.jpg"
+banner: "https://static.hackartscience.com/madlime/review/render/render_4.jpg"
 tag: food
 excerpt_separator: <!--more-->
 date:   2016-02-24 16:44:22 -0500
@@ -13,23 +13,19 @@ date:   2016-02-24 16:44:22 -0500
 
 <!--more-->
 
-![???][render_2]
-
-![???][render_4]
+![][render_4]
 
 其實這個區域相當的有文藝氣息，有許許多多的藝廊散落在South end，而且在Render Coffee附近有一家Café Madeleine的甜點店，上圖中的水果塔還有店裡販賣的馬卡龍都十分好吃！下次有機會再跟大家介紹！
 
-![???][render_3]
-
 Render Coffee的座位並不多，不過店內有像溫室般全玻璃空間，就算是冬天也能在室內享受陽光灑落在座位之間的好心情。另外他們也有戶外座位區，在夏天微風徐徐時，在戶外品嘗一杯咖啡也不失為一個好選擇。
 
-![???][render_6]
+![][render_6]
 
 說到最重要的三明治，我最喜歡的是BLT Panini。Panini帕尼尼三明治不同於一般三明治偏向冷食，帕尼尼最重要的就是把三明治加熱香烤，尤其使用專門的烤帕尼尼機器，三明治麵包的表面會有橫條的烤印痕跡，令人看了垂涎三尺。
 
 說到BLT其實就是Bacon, Lettuce和Tomato的縮寫，雖然食材看來相當的平凡，但這裡的BLT使用歐式的乾燥番茄，加上新鮮的西洋菠菜和aioli香蒜蛋黃醬，不僅襯托出培根的香味，還能品嘗不同以往的BLT風味。
 
-![???][render_9]
+![][render_9]
 
 另外朋友點了Ham & Turkey Panini，名字不是很確定，但這個三明治有滿滿的火腿及雞胸肉，雖然沒有生菜番茄，但搭上稍微有點嗆鼻的黃芥末，清爽解膩！
 
@@ -59,8 +55,6 @@ Sat. & Sun.: 8:00 am – 7:00 pm
 617-262-4142
 
 
-[render_2]: https://static.hackartscience.com/madlime/render_coffee/render_2.jpg
-[render_3]: https://static.hackartscience.com/madlime/render_coffee/render_3.jpg
-[render_4]: https://static.hackartscience.com/madlime/render_coffee/render_4.jpg
-[render_6]: https://static.hackartscience.com/madlime/render_coffee/render_6.jpg
-[render_9]: https://static.hackartscience.com/madlime/render_coffee/render_9.jpg
+[render_4]: https://static.hackartscience.com/madlime/review/render/render_4.jpg
+[render_6]: https://static.hackartscience.com/madlime/review/render/render_6.jpg
+[render_9]: https://static.hackartscience.com/madlime/review/render/render_9.jpg

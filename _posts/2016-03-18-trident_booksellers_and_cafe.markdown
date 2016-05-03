@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "書香環繞的悠閒早午餐時光 Trident Booksellers & Cafe"
-banner: "https://static.hackartscience.com/madlime/trident/trident_23.jpg"
+banner: "https://static.hackartscience.com/madlime/review/trident/trident_23.jpg"
 tag: food
 excerpt_separator: <!--more-->
 date:   2016-04-18 16:44:22 -0500
@@ -70,6 +70,6 @@ Boston,  MA 02115
 (617) 267-8688
 
 
-[food1]: https://static.hackartscience.com/madlime/trident/trident_12.jpg
-[food2]: https://static.hackartscience.com/madlime/trident/trident_13.jpg
-[food3]: https://static.hackartscience.com/madlime/trident/trident_15.jpg
+[food1]: https://static.hackartscience.com/madlime/review/trident/trident_12.jpg
+[food2]: https://static.hackartscience.com/madlime/review/trident/trident_13.jpg
+[food3]: https://static.hackartscience.com/madlime/review/trident/trident_15.jpg
